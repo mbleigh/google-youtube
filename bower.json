@@ -1,0 +1,7 @@
+{
+  "name": "google-youtube#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-youtube": "GoogleWebComponents/google-youtube#master"
+  }
+}
